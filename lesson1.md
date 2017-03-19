@@ -14,4 +14,6 @@ yuyueugene84
 
 My Favorite 3 Programming Languages
 --------------------------------
-Ruby Python javascript
+- Ruby 
+- Python 
+- javascript
